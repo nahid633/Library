@@ -3,6 +3,7 @@
 This project was generated with spring boot.
 Using maven.as Security used Spring security oauth2 and jwt.
 db- mysql
+sql dump Name: LibraryDump.sql
 ## Development server
 
 Run `mvn spring-boot:run` . Navigate to `http://localhost:8080/`. 
