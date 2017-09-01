@@ -1,0 +1,18 @@
+                                                                           
+               AAA               HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCC
+              A:::A              H:::::::H     H:::::::H   CCC::::::::::::C
+             A:::::A             H:::::::H     H:::::::H CC:::::::::::::::C
+            A:::::::A            HH::::::H     H::::::HHC:::::CCCCCCCC::::C
+           A:::::::::A             H:::::H     H:::::H C:::::C       CCCCCC
+          A:::::A:::::A            H:::::H     H:::::HC:::::C              
+         A:::::A A:::::A           H::::::HHHHH::::::HC:::::C              
+        A:::::A   A:::::A          H:::::::::::::::::HC:::::C              
+       A:::::A     A:::::A         H:::::::::::::::::HC:::::C              
+      A:::::AAAAAAAAA:::::A        H::::::HHHHH::::::HC:::::C              
+     A:::::::::::::::::::::A       H:::::H     H:::::HC:::::C              
+    A:::::AAAAAAAAAAAAA:::::A      H:::::H     H:::::H C:::::C       CCCCCC
+   A:::::A             A:::::A   HH::::::H     H::::::HHC:::::CCCCCCCC::::C
+  A:::::A               A:::::A  H:::::::H     H:::::::H CC:::::::::::::::C
+ A:::::A                 A:::::A H:::::::H     H:::::::H   CCC::::::::::::C
+AAAAAAA                   AAAAAAAHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCC
+                                                                          
